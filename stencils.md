@@ -1,6 +1,6 @@
 # Everything you always wanted to know about my visio artefacts but were afraid to ask
 
-[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) users is a big [community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
+[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
 I try to keep my visio artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to the source section below for more information.
 
@@ -15,7 +15,7 @@ Obviously, I don't remember all the sources but there is tons of information bel
 
 There is multiple toolchain to convert SVG and PNG icons/ images to Visio stencil format, such as [png2vss](https://dmitryivanov.net/image-converter-for-visio/). This is not something I’m pursuing.
 
-## Electronic
+### Electronic
 
 * [AXIS Communications](https://www.axis.com/tools/axis-coverage-shapes)
 * [BB SmartWorx](https://www.bb-elec.com/Tech-Support/Visio-Stencil/Visio-Stencils-Download.aspx)
@@ -25,13 +25,13 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
 * [tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
 
-## IT Generic
+### IT Generic
 
 * [ECCEMAN: 2D symbols for computer network diagrams](https://github.com/ecceman/affinity)
 * [MTMnet.com's Visio Icon & Stencil Library](https://mtmnet.com/visio_icons.htm)
 * [Visio Shapes for Card Access, Intrusion and CCTV](https://www.dropbox.com/sh/b2krkclusl4kuje/ynomFmczIf) – Created by Duncan Miller and based off of the Security Industry Associaion Standard CAD Symbols
 
-## IT Vendors
+### IT Vendors
 
 * [A10 Networks](https://www.a10networks.com/wp-content/uploads/Visio-Thunder.zip) 64-bit AX Series Thunder Series, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-64-bit.zip, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-32-bit.zip
 * [Adtran](https://adtran.com/web/url/visiostencils)
@@ -87,7 +87,7 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
 
-## IT Vendors (legacy)
+### IT Vendors (legacy)
 
 * [Allies Telesis](https://www.alliedtelesis.com/es/documents/9000-series-visio-stencil)
 * [Avaya](https://support.avaya.com/helpcenter/getGenericDetails?detailId=C20097681410857094)
@@ -95,7 +95,7 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [Meinberg Global](https://www.meinbergglobal.com/english/sw/#visioshapes)
 * [QNAP](https://marketing.qnap.com/resource/qnap-visio-stencils/)
 
-## Methodologies
+### Methodologies
 
 * [ADAPT (Application Design for Analytical Processing Technologies)](http://www.symcorp.com/tech_expertise_design.html)
 * [BPMN, CMMN, and DMN](https://www.trisotech.com/trisotech-free-visio-templates-bpmn-cmmn-dmn/)
@@ -111,12 +111,12 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [SYSML](http://www.softwarestencils.com/sysml/index.html)
 * [UML 2.5](http://www.softwarestencils.com/uml/index.html)
 
-## Miscellaneous
+### Miscellaneous
 
 * [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
 * [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 
-## UX
+### UX
 
 * [Paper Plane: IA tools](http://www.paperplane.net/omnigraffle/)
 * [UK Government Digital Service (GDS)](https://github.com/Cloud-Awesome/gds-wireframe-stencils) and [Design System](https://design-system.service.gov.uk/)
