@@ -1,37 +1,46 @@
-# Stencils
+# Everything you always wanted to know about my visio artefacts but were afraid to ask
 
-* [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) users is a big [community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
+[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) users is a big [community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
-Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format, such as [png2vss](https://dmitryivanov.net/image-converter-for-visio/)
+I try to keep my visio artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to the source section below for more information.
+
+I normalize filenames to keep my sanity:
+ * Replace all dashes and underscores with a space
+ * Add the vendor name as prefix
+ * Add the version as suffix usually in the v[year][month] format
+
+## Source
+
+Obviously, I don't remember all the sources but there is tons of information below ...
+
+There is multiple toolchain to convert SVG and PNG icons/ images to Visio stencil format, such as [png2vss](https://dmitryivanov.net/image-converter-for-visio/). This is not something I’m pursuing.
 
 ## Electronic
 
 * [AXIS Communications](https://www.axis.com/tools/axis-coverage-shapes)
-* [EVTRack access control](https://evtrack.com/utilities/)
-* [Corning Optical Communications](https://www.corning.com/optical-communications/emea/en/home/Resources/product-drawings.html)
 * [BB SmartWorx](https://www.bb-elec.com/Tech-Support/Visio-Stencil/Visio-Stencils-Download.aspx)
-[tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
 * [CAELFFI Hydronic Solutions](https://www.caleffi.com/usa/en-us/blog/does-caleffi-have-product-stencils-visio-drawings)
+* [Corning Optical Communications](https://www.corning.com/optical-communications/emea/en/home/Resources/product-drawings.html)
+* [EVTRack access control](https://evtrack.com/utilities/)
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
+* [tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
+
 ## IT Generic
 
 * [ECCEMAN: 2D symbols for computer network diagrams](https://github.com/ecceman/affinity)
 * [MTMnet.com's Visio Icon & Stencil Library](https://mtmnet.com/visio_icons.htm)
 * [Visio Shapes for Card Access, Intrusion and CCTV](https://www.dropbox.com/sh/b2krkclusl4kuje/ynomFmczIf) – Created by Duncan Miller and based off of the Security Industry Associaion Standard CAD Symbols
 
-
 ## IT Vendors
 
-[Alibaba Cloud](https://us.alibabacloud.com/en)
-* [Eaton](http://powerquality.eaton.in/support/documentation/visio-tech-drawings.asp)
 * [A10 Networks](https://www.a10networks.com/wp-content/uploads/Visio-Thunder.zip) 64-bit AX Series Thunder Series, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-64-bit.zip, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-32-bit.zip
 * [Adtran](https://adtran.com/web/url/visiostencils)
+* [Alibaba Cloud](https://us.alibabacloud.com/en)
 * [APC](https://www.se.com/ca/en/download/document/SPD_ASTE-6EHJ26_EN/)
 * [Arista](https://www.arista.com/)
 * [AWS](https://aws.amazon.com/architecture/icons/)
 * [bitbucket](https://bitbucket.org/vrtsystems/odf-extension-vrt-network-equipment/src/master/)
 * [BlackBox](https://www.blackbox.com/en-us/support/support/resources/visio-stencils)
-* [Leviton](https://www.leviton.com/en/support/contact-us/product-support/networking/visio-stencils)
 * [CABLExpress](https://www.cablexpress.com/resources/visio-stencils/)
 * [Checkpoint](https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk101866)
 * [CISCO Meraki](https://meraki.cisco.com/lib/cisco_meraki_visio_stencils.vss)
@@ -40,6 +49,7 @@ Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format
 * [CyberPower](https://www.cyberpowersystems.com/resource_type/visio-stencil/)
 * [Design Decisions for VMware Validated Designs](https://github.com/rainpole/vvd-design-decisions)
 * [Diagrams for VMware Validated Design](https://github.com/rainpole/vvd-diagrams)
+* [Eaton](http://powerquality.eaton.in/support/documentation/visio-tech-drawings.asp)
 * [EdgeWave](https://www.edgewave.com/support/iprism-visio-stencils/)
 * [Emcor Enclosures](https://www.emcorenclosures.com/resources/visio/)
 * [Extreme Networks](https://www.extremenetworks.com/support/visio-stencils)
@@ -48,9 +58,7 @@ Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format
 * [Fortinet](https://www.fortinet.com/resources/icon-library)
 * [Garland Technology](https://www.garlandtechnology.com/visio-stencils)
 * [GigaMon](https://www.gigamon.com/search-results.html?#t=Resources&sort=relevancy&f:@commonresourcetype=[Visio])
-* [Google Cloud](https://cloud.google.com/icons)
 * [Google Cloud](https://cloud.google.com/icons/) & [github](https://github.com/bcerniglia/omnigraffle-stencils/tree/main/GoogleCloud)
-* [Google Icons](https://cloud.google.com/icons)
 * [Hanwha Techwin America](https://www.hanwhasecurity.com/visio-design-tool/)
 * [HellermannTyton](https://www.htdata.co.uk/downloads/visio-stencils)
 * [Huawei](https://support.huawei.com/enterprise/en/info-finder/)
@@ -59,6 +67,7 @@ Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format
 * [Juniper](https://www.juniper.net/us/en/products-services/icons-stencils/)
 * [Kemp Technologies LoadMaster](https://support.kemptechnologies.com/hc/en-us/articles/202018243-Kemp-LoadMaster-Visio-Stencils)
 * [Kubernetes](https://github.com/kubernetes/community/tree/master/icons)
+* [Leviton](https://www.leviton.com/en/support/contact-us/product-support/networking/visio-stencils)
 * [Microsoft](https://docs.microsoft.com/en-ca/azure/architecture/icons/)
 * [Oracle](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm)
 * [Palo Alto Network](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000CmAJCA0)
@@ -80,12 +89,12 @@ Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format
 
 ## IT Vendors (legacy)
 
+* [Allies Telesis](https://www.alliedtelesis.com/es/documents/9000-series-visio-stencil)
 * [Avaya](https://support.avaya.com/helpcenter/getGenericDetails?detailId=C20097681410857094)
 * [Ciena](https://www.ciena.com/insights/visio-stencils/3xxx.html)
 * [Meinberg Global](https://www.meinbergglobal.com/english/sw/#visioshapes)
 * [QNAP](https://marketing.qnap.com/resource/qnap-visio-stencils/)
 
-* [Allies Telesis](https://www.alliedtelesis.com/es/documents/9000-series-visio-stencil)
 ## Methodologies
 
 * [ADAPT (Application Design for Analytical Processing Technologies)](http://www.symcorp.com/tech_expertise_design.html)
@@ -105,7 +114,7 @@ Multiple toolchain can convert SVG and PNG icons/ images to Visio stencil format
 ## Miscellaneous
 
 * [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
- * [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
+* [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 
 ## UX
 

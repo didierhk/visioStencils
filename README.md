@@ -1,14 +1,14 @@
 ![alt text](https://github.com/bhdicaire/visioStencils/raw/main/logo.png "Logo")
 
-This repository consolidate more than 4,600 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
+This repository consolidate more than 2,700 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
 
 Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes. Scale modification might cause unsatisfactory results.
 
-There is 800 current IT stencils, sadly most vendors does not update them frequently. You'll find items from Cisco, CommScope, Dell, D-Link, Extreme Network, Fortinet, HPE, Juniper, Kubernetes, Lenovo, Microsoft, Palo Alto Networks, Penguin, Qumulo, Sitecore, Sophos, Synology, TP-Link, Unquiti, , Veeam, VMWare, and ZScaler. There is also cloud related stencils from Alibaba, Azure, and IBM. I'm still looking for AWS and GCP.
+There is 600 current IT stencils, sadly most vendors does not update them frequently. You'll find items from Cisco, CommScope, Dell, D-Link, Extreme Network, Fortinet, HPE, Juniper, Kubernetes, Lenovo, Microsoft, Palo Alto Networks, Penguin, Qumulo, Sitecore, Sophos, Synology, TP-Link, Unquiti, , Veeam, VMWare, and ZScaler. There is also cloud related stencils from Alibaba, Azure, and IBM. I'm still looking for AWS and GCP.
 
 Computer rack stencils include CyberPower, Datwylerm, Eaton, HellermannTyton, GarlandTech, Panduit, R&M, Raritan, Systimax, Tripp Lite and Uniprise.
  
-This repository also include more than 1000 IT stencils older than 2019 because I have them and organizations are still using them. You'll find items from 3Com, Adtran, Avaya, Avocent, BlueCat, BlueSocket, Chatsworth, Dell, Extreme Network, F5, Foundry, IronPort, Juniper, Linksys, Netgate PFSense, Nortel, Palo Alto Network, Polycom, QNAP, Radware, Riverbed Network, SonicWall, Sourcefire, TippingPoint, Vyatta, and ZyXel.
+This repository also include more than 1100 IT stencils older than 2019 because I have them and organizations are still using them. You'll find items from 3Com, Adtran, Avaya, Avocent, BlueCat, BlueSocket, Chatsworth, Dell, Extreme Network, F5, Foundry, IronPort, Juniper, Linksys, Netgate PFSense, Nortel, Palo Alto Network, Polycom, QNAP, Radware, Riverbed Network, SonicWall, Sourcefire, TippingPoint, Vyatta, and ZyXel.
 
 IT Methodologies stencils include ADAPT v3, Archimate, BPMN, C4, CORAS, CMMN, DMN, IDEF5, TOGAF and UML.
 
