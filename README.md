@@ -12,7 +12,7 @@ This repository also include more than 1000 IT stencils older than 2019 because 
 
 IT Methodologies stencils include ADAPT v3, Archimate, BPMN, C4, CORAS, CMMN, DMN, IDEF5, TOGAF and UML.
 
-Obviously, I don't remember all the sources. The usual suspect are the vendors websites, refer to [Stencils](stencils.md) for more information.
+> Obviously, I don't remember all the sources. The usual suspect are the vendors websites, refer to [Stencils](stencils.md) for more information.
 
 If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), [Visimation](www.visimation.com), or [Visio Café](http://www.visiocafe.com/).
 
