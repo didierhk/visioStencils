@@ -2,7 +2,7 @@
 
 This repository consolidate more than 2,700 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
 
-Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes. Scale modification might cause unsatisfactory results.
+Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
 
 There is 600 current IT stencils, sadly most vendors does not update them frequently. You'll find items from Cisco, CommScope, Dell, D-Link, Extreme Network, Fortinet, HPE, Juniper, Kubernetes, Lenovo, Microsoft, Palo Alto Networks, Penguin, Qumulo, Sitecore, Sophos, Synology, TP-Link, Unquiti, , Veeam, VMWare, and ZScaler. There is also cloud related stencils from Alibaba, Azure, and IBM. I'm still looking for AWS and GCP.
 
@@ -12,7 +12,7 @@ This repository also include more than 1100 IT stencils older than 2019 because 
 
 IT Methodologies stencils include ADAPT v3, Archimate, BPMN, C4, CORAS, CMMN, DMN, IDEF5, TOGAF and UML.
 
-> Obviously, I don't remember all the sources. The usual suspect are the vendors websites, refer to [Stencils](stencils.md) for more information.
+> Obviously, I don't remember all the sources – refer to [Stencils](stencils.md) for more information.
 
 If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), [Visimation](www.visimation.com), or [Visio Café](http://www.visiocafe.com/).
 
