@@ -4,7 +4,6 @@ Echo "Templates :"
 find Templates/ -type f | wc -l
 Echo "Documents:"
 find Documents/ -type f | wc -l
-
 Echo "--- ---"
 Echo "Computer Racks :"
 find Stencils/Computer\ Racks/ -type f | wc -l
