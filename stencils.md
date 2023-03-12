@@ -1,5 +1,48 @@
 # Everything you always wanted to know about my visio artefacts but were afraid to ask
 
+--
+
+https://supportkb.riverbed.com/support/index?page=content&id=S15725
+
+https://www.f5.com/services/resources/visio-stencils
+
+https://www.juniper.net/us/en/products/icons-and-stencils.html ?? No update timestamp
+
+https://www.tp-link.com/us/support/faq/1520/
+https://www.truenas.com/docs/hardware/stencils/
+https://support.oneidentity.com/active-roles/kb/4286795/ms-visio-stencils-templates
+http://www.its-all-design.com/ba-sketchbook-stencil-visio/
+https://www.watchguard.com/wgrd-resource-center/visio-icons
+https://meraki.cisco.com/product-collateral/cisco-meraki-visio-stencils/
+
+https://www.opto22.com/support/resources-tools/visio-stencils-of-groov-epic-and-groov-rio
+https://www.fortinet.com/content/dam/fortinet/assets/downloads/Fortinet Visio Stencil.zip
+https://www.fortinet.com/resources/icon-library
+https://unipowerco.com/resources/visio-stencils/
+https://comtrol.com/resources/product-resources-white-papers/additional-resources/visio-stencils
+
+https://www.gigamon.com/search-results.html?#t=Resources&sort=relevancy&numberOfResults=25&f:@commonresourcetype=[Visio]
+
+https://github.com/kubernetes/community/tree/master/icons/visio
+
+
+Not Downloaded yet
+https://support.avaya.com/support/en/helpcenter/GenericDetail/C20097681410857094
+https://ftp.opengear.com/download/visio/
+https://www.supermicro.com/mysupermicro/visio/
+https://www.cyberpowersystems.com/resource_type/visio-stencil/
+https://www.alliedtelesis.com/ca/en/search?keywords=visio
+Partner Advantage | Technical Enablement | Technical Toolbox (commvault.com)
+https://www.ciena.com/insights/visio-stencils/3xxx.html
+https://www.chatsworth.com/en-us/account/login?returnurl=%2fen-us%2fresources%2fdesign-tools%2fvisio-shapes
+
+https://portal.adtran.com/web/url/visiostencils
+https://www.omnitron-systems.com/omnitron-visio-stencils
+
+https://download.emc.com/downloads/DL70823_Unity_Visio_Stencils.zip?source=OLS
+
+
+--
 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
 I try to keep my visio artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to the source section below for more information.
@@ -24,6 +67,9 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [EVTRack access control](https://evtrack.com/utilities/)
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
 * [tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
+* [Premium-Line](https://www.premiumline-cabling.com/service_category/visio-stencils/)
+* [Taco](https://www.tacocomfort.com/knowledge-base/visio-stencils/)
+http://www.fmc-modeling.org/fmc_stencils
 
 ### IT Generic
 
@@ -72,7 +118,7 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [Oracle](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm)
 * [Palo Alto Network](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000CmAJCA0)
 * [Panduit](https://www.panduit.com/en/support/tools1/visio.html)
-* [Polycom](https://www.poly.com/ca/en/resources/visio-templates)
+* [Poly, formerly Polycom](https://www.poly.com/ca/en/resources/visio-templates)
 * [Raritan](https://www.raritan.com/resources/visio-stencils/P20)
 * [Splunk](https://wiki.splunk.com/Community:Splunk_Visio_Stencil)
 * [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans]((https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
@@ -80,12 +126,14 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [Tripp Lite](https://www.tripplite.com/support/visio-stencils)
 * [Ubiquiti – full collection of images divided by product line](https://www.ubnt.com/marketing)
 * [Ubiquiti](https://www.dropbox.com/sh/yv4rf6rytm390ep/AABP9yb-5KXeIQIIQY75uMUZa?dl=0)
-* [UP Logix](https://uplogix.com/docs/pdf/visio/)
+* [Lantronix, formerly UP Logix](https://uplogix.com/docs/pdf/visio/)
 * [VIAVI Solutions](https://www.viavisolutions.com/en-us/ptv/observer-filters-visio-stencils)
 * [VMWare](https://vmware.com/go/stencils) and/or [github](https://github.com/rainpole/vmware-stencils)
 * [VTR Systems](https://www.vrt.com.au/downloads/vrt-network-equipment), [GitHub](https://github.com/pafnow/vrt-stencil-for-visio)
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
+https://www.wti.com/pages/visio-stencils
+* [Veeam](https://rhyshammond.com/veeam-visio-stencils/)
 
 ### IT Vendors (legacy)
 
@@ -110,6 +158,7 @@ There is multiple toolchain to convert SVG and PNG icons/ images to Visio stenci
 * [Subject Oriented Business Process Management also known as Abstract PASS (Parallel Activity Specification Schema)](https://subjective-me.jimdofree.com/visio-modelling/)
 * [SYSML](http://www.softwarestencils.com/sysml/index.html)
 * [UML 2.5](http://www.softwarestencils.com/uml/index.html)
+* [ORM Foundation](https://www.ormfoundation.org/files/folders/visio_stencils/default.aspx)
 
 ### Miscellaneous
 
