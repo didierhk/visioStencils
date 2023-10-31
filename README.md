@@ -1,6 +1,6 @@
 ![alt text](https://github.com/bhdicaire/visioStencils/raw/main/logo.png "Logo")
 
-This repository consolidate more than 3,000 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
+This repository consolidate more than 3,100 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
 
 Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
 
